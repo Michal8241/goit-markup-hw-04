@@ -350,6 +350,7 @@ margin-top: 20px;
     justify-content: center;
     align-items: center;
     text-align: center;
+    max-width: 1600px;
     width: 99vw;
     margin-top: 80px;
     background-image: linear-gradient(rgba(47, 48, 58, 0.4),
